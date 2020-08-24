@@ -1,3 +1,9 @@
+## JavaScript Notes
+
+### Array Properties & Methods
+
+#### Properties
+
 length
 
 - Reflects the number of elements in an array.
