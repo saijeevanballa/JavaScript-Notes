@@ -3,24 +3,23 @@
 ### Array Properties & Methods
 
 ```
-An array is a special variable,
-which can hold more than one value at a time.
+An array is a special variable, which can hold more than one value at a time.
 example: [ 1, 2, {a: 1, b: 2}, "three"]
 ```
 
 #### Properties
 
-length
+- length
 
 > Reflects the number of elements in an array.
 
-prototype
+- prototype
 
 > A symbol containing property names to exclude from a with binding scope. Instance methods
 
 #### Methods
 
-concat()
+- concat()
 
 - Returns a new array that is this array joined with other array(s) and/or value(s).
 
