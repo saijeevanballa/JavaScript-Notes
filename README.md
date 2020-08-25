@@ -2,21 +2,21 @@
 
 ### Array Properties & Methods
 
-"Array:
+```
 An array is a special variable,
 which can hold more than one value at a time.
-example: [ 1, 2, {a: 1, b: 2}, "three"]"
+example: [ 1, 2, {a: 1, b: 2}, "three"]
+```
 
 #### Properties
 
 length
 
-- Reflects the number of elements in an array.
+> Reflects the number of elements in an array.
 
 prototype
 
-- A symbol containing property names to exclude from a with binding scope.
-  Instance methods
+> A symbol containing property names to exclude from a with binding scope. Instance methods
 
 #### Methods
 
