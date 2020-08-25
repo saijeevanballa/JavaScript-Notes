@@ -13,6 +13,8 @@ prototype
 - A symbol containing property names to exclude from a with binding scope.
   Instance methods
 
+#### Methods
+
 concat()
 
 - Returns a new array that is this array joined with other array(s) and/or value(s).
@@ -96,22 +98,33 @@ reverse()
 shift()
 
 - Removes the first element from an array and returns that element.
-  Array.prototype.slice()
-  Extracts a section of the calling array and returns a new array.
-  Array.prototype.some()
-  Returns true if at least one element in this array satisfies the provided testing function.
-  Array.prototype.sort()
-  Sorts the elements of an array in place and returns the array.
-  Array.prototype.splice()
-  Adds and/or removes elements from an array.
-  Array.prototype.toLocaleString()
-  Returns a localized string representing the array and its elements. Overrides the Object.prototype.toLocaleString() method.
-  Array.prototype.toString()
-  Returns a string representing the array and its elements. Overrides the Object.prototype.toString() method.
-  Array.prototype.unshift()
-  Adds one or more elements to the front of an array, and returns the new length of the array.
-  Array.prototype.values()
-  Returns a new Array Iterator object that contains the values for each index in the array.
-  Array.prototype[@@iterator]()
-  Returns a new Array Iterator object that contains the values for each index in the array.
-  Examples
+
+slice()
+
+- Extracts a section of the calling array and returns a new array.
+
+some()
+
+- Returns true if at least one element in this array satisfies the provided testing function.
+
+sort()
+-Sorts the elements of an array in place and returns the array.
+
+splice()
+
+- Adds and/or removes elements from an array.
+
+toLocaleString()
+
+- Returns a localized string representing the array and its elements. Overrides the Object.prototype.toLocaleString() method.
+
+toString()
+-Returns a string representing the array and its elements. Overrides the Object.prototype.toString() method.
+
+unshift()
+
+- Adds one or more elements to the front of an array, and returns the new length of the array.
+
+values()
+
+- Returns a new Array Iterator object that contains the values for each index in the array.
