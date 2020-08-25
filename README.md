@@ -2,6 +2,11 @@
 
 ### Array Properties & Methods
 
+"Array:
+An array is a special variable,
+which can hold more than one value at a time.
+example: [ 1, 2, {a: 1, b: 2}, "three"]"
+
 #### Properties
 
 length
